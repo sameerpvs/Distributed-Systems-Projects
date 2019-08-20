@@ -20,6 +20,8 @@ public class ServerGUI extends JFrame
 {
 	//arraylist to store messages from students
 	ArrayList<String> Advisor = new ArrayList<String>();
+	//arraylist to store messages from students
+	ArrayList<String> Advisor = new ArrayList<String>();
 	//arraylist to store messages from advisor
 	ArrayList<String> Notification = new ArrayList<String>();
 	//arraylist to store the threads
